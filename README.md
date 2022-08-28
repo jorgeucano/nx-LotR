@@ -1,6 +1,6 @@
 
 
-# NxLotR
+# Nx Lord of the Ring
 
 This project was generated using [Nx](https://nx.dev).
 
