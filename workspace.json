@@ -1,0 +1,8 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "storiette-wc": "apps/storiette-wc",
+    "storiette-wc-e2e": "apps/storiette-wc-e2e"
+  }
+}
